@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kent
-- 👀 I’m interested in web development and AI technologies
-- 📫 You can reach me here: kentjohngo96@gmail.com
+- 👀 VILT - MySQL - Filament - Docker 
+- 📫 You can reach me here: gocotano.kentjohn@gmail.com
 
 <!---
 mrcoffeex/mrcoffeex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
