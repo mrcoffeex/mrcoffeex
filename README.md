@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kent
-- 👀 VILT - MySQL - Filament - Docker - WSL
+- 👀 VILT - TALL - MySQL - Docker - WSL
 - 📫 You can reach me here: gocotano.kentjohn@gmail.com
 
 <!---
