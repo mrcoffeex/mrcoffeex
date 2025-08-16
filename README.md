@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Kent
-- ⌨️ Vue Inertia Laravel Tailwind (VILT) - Tailwind Alphine Laravel Livewire (TALL) - MySQL - Docker - WSL
+- Vue Inertia Laravel Tailwind (VILT)
+- Tailwind Alphine Laravel Livewire (TALL)
+- MySQL
+- Docker
+- WSL
 - 📫 You can reach me here: gocotano.kentjohn@gmail.com
 
 <!---
